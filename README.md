@@ -1,2 +1,4 @@
-# brickmmo-colours
-An LEGO™ colour palette tool including an API.
+# BrickMMO Colours Tool
+
+A LEGO™ colour palette tool and API.
+
