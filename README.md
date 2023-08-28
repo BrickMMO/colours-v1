@@ -1,4 +1,4 @@
-# Colours
+# Colours V1
 
 A colour palette tool for LEGO® bricks and API for use with the BriockMMO Smart City.
 
